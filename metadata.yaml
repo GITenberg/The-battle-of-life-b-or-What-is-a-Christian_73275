@@ -1,0 +1,38 @@
+_repo: The-battle-of-life-b-or-What-is-a-Christian_73275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2024-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73275'
+language: en
+pgterms:marc905: 20240322132541aloe
+pgterms:marc906: '1888'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bGall and Inglis, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: A pilgrim; or, a Christian in daily walk -- An heir of heaven; or,
+  a Christian in privilege -- A saint; or, a Christian in character -- A conqueror;
+  or, a Christian in life's struggle -- A light; or, a Christian in influence -- A
+  thankful guest; or, a Christian in communion.
+title: 'The battle of life : $b or, What is a Christian'
+url: http://www.gutenberg.org/ebooks/73275
